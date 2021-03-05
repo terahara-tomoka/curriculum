@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.header{
+background-color: gray;
+display:flex;
+}
+
+.login{
+display: inline-block;
+padding: 10px;
+color: white;}
+
+.time{
+padding: 10px;
+font-size: 10px;
+}
+
+.footer{
+	background-color: gray;
+}
+
+.hoge{
+display: inline-block;
+padding: 10px;
+color: white;
+
+}
+
+table tr{
+padding-top: 50px;
+padding-bottom: 50px;
+}
